@@ -74,7 +74,7 @@
 </div>
 
 <div align="center">
-  <img src="profile/vaporwave.gif" align="center">
+  <img align="center" height ="352px" src="profile/vaporwave.gif" >
 </div>
 
 <div align="center"> 
