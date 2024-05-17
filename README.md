@@ -70,15 +70,15 @@
 | <img width="55" src="projects/toxic-audio-detection.jpg" /> | <a href="https://github.com/NILodio/toxic-audio-detection"> Toxic Audio Detection </a> | Web application to detect and identify sections of inappropriate usage of words and/or yelling within audio files.| <img align="center" height ="35px" src="projects/completed2.png"/> |
 
 <div align="center"> 
-  <br/> <b> See you around! :) (🛠️): </b> <br/> <br/>
+  <br/> <b>🦴 See you around! 💌 :) 🦴</b> <br/> <br/> 
 </div>
 
 <div align="center">
-  <img src="profile/welcome.gif" align="center">
+  <img src="profile/vaporwave.gif" align="center">
 </div>
 
 <div align="center"> 
-  Here's 1 more bone in case you didn't have enough: 🦴
+  Here's 1 more in case you didn't have enough: 🦴
 </div>
 
 
