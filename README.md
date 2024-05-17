@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ErnieLud/ErnieLud/main/Andariel_ani.gif" alt="Fan" align="center">
+<img src="https://github.com/ErnieLud/ErnieLud/blob/main/hotline%20miami.gif" alt="Fan" align="center">
 </div>
 
 <div align="center">
@@ -11,6 +11,7 @@
 <div align="center">
 to my personal GitHub profile!
 </div>
+<img src="https://raw.githubusercontent.com/ErnieLud/ErnieLud/main/biker-hotline-miami.gif" alt="Writing" align="center">
 
 
 <!--
