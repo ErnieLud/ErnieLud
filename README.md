@@ -1,19 +1,19 @@
 <!--### Hi there 👋-->
 
 <div align="center">
-  <img src="https://github.com/ErnieLud/ErnieLud/blob/main/city-night.gif" alt="CityNight" align="center" width="400" height="200"/>
+  <img src="profile/city-night.gif" align="center" width="400" height="200"/>
 </div>
 
 <div align="center">
-<img src="https://github.com/ErnieLud/ErnieLud/blob/main/Welcome.gif" alt="Welcome" align="center">
+  <img src="profile/welcome.gif" align="center">
 </div>
 
 <div align="center">
-<b>to my personal GitHub profile!</b>
+  <b> to my personal GitHub profile! </b>
 </div>
   
 <div align="center">
-<img src="https://raw.githubusercontent.com/ErnieLud/ErnieLud/main/biker-hotline-miami.gif" alt="Writing" align="center" width="200" height="200">
+  <img src="profile/biker-hotline-miami.gif" align="center" width="200" height="200">
 </div>
 
 <div align="center">
@@ -60,21 +60,26 @@
 </h5>
 
 <div align="center"> 
-  <br/> <b> My recent projects and contributions: </b> <br/>
+  <br/> <b> Most recent projects and contributions (🛠️): </b> <br/> <br/>
 </div>
 
-| Logo | Project | Description | Status |
+| Icon | Project | Description | Status |
 |---|---|---|---|
-| <img align="center" height ="42px" src="projects/jobspymatcher.png"/> | <a href="https://github.com/NILodio/JobsPyMacher"> JobsPyMatcher </a>‎ ‎| An application that helps students increase their chances of getting noticed by recruiters by significantly improving their resumes for targeted job descriptions.| <img align="center" height ="20px" src="projects/completed.png"/> |
-| <img width="55" src="projects/dota2analytics.jpg" /> | <a href="https://github.com/NILodio/dota2Analytics"> Dota2Analytics </a> | An application that predicts the winning team in Dota 2 e-sports matches before they start. This classification problem involves various independent features and a large amount of data to analyze.| <img align="center" height ="20px" src="projects/completed.png"/> |
-| <img width="55" src="projects/toxic-audio-detection.jpg" /> | <a href="https://github.com/NILodio/toxic-audio-detection"> Toxic Audio Detection </a> | Web application to detect and identify sections of inappropriate usage of words and/or yelling within audio files.| <img align="center" height ="20px" src="projects/completed.png"/> |
+| <img align="center" height ="42px" src="projects/jobspymatcher.png"/> | <a href="https://github.com/NILodio/JobsPyMacher"> JobsPyMatcher </a>‎ ‎| An application that helps students increase their chances of getting noticed by recruiters by significantly improving their resumes for targeted job descriptions.| <img align="center" height ="35px" src="projects/completed2.png"/> |
+| <img width="55" src="projects/dota2analytics.jpg" /> | <a href="https://github.com/NILodio/dota2Analytics"> Dota2Analytics </a> | An application that predicts the winning team in Dota 2 e-sports matches before they start. This classification problem involves various independent features and a large amount of data to analyze.| <img align="center" height ="35px" src="projects/completed2.png"/> |
+| <img width="55" src="projects/toxic-audio-detection.jpg" /> | <a href="https://github.com/NILodio/toxic-audio-detection"> Toxic Audio Detection </a> | Web application to detect and identify sections of inappropriate usage of words and/or yelling within audio files.| <img align="center" height ="35px" src="projects/completed2.png"/> |
 
-
-<div align="center"> <br/>
-<b> 🛠️ My Projects </b> <br/>
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+<div align="center"> 
+  <br/> <b> See you around! :) (🛠️): </b> <br/> <br/>
 </div>
+
+<div align="center">
+  <img src="profile/welcome.gif" align="center">
+</div>
+
+<div align="center"> 
+  Here's 1 more bone in case you didn't have enough: 🦴
+</div>
+
+
 
