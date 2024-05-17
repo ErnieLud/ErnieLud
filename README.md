@@ -44,16 +44,19 @@
 </div>
 
 <h5 align="center">
-  <img align="center" height ="42px" src="tools/python.png"> <code> <b> Python </b> </code>  | 
-  <img align="center" height ="42px" src="tools/sql.png"> <code> <b> SQL </b> </code>  | 
-  <img align="center" height ="42px" src="tools/git.jpg"> <code> <b> Git </b> </code>  | 
-  <img align="center" height ="42px" src="tools/aws.png"> <code> <b> AWS </b> </code>  | 
-  <img align="center" height ="42px" src="tools/azure.png"> <code> <b> Azure </b> </code>  | 
-  <img align="center" height ="42px" src="tools/java.jpg"> <code> <b> Java </b> </code>  | 
-  <img align="center" height ="42px" src="tools/mongodb.svg"> <code> <b> MongoDB </b> </code>  | 
+  🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/> 🦴
+  <img align="center" height ="42px" src="tools/python.png"> <code> <b> ‎‎‎Python </b> </code>  | 
+  <img align="center" height ="35px" src="tools/sql.png"> <code> <b> ‎ SQL‎  </b> </code>  | 
+  <img align="center" height ="42px" src="tools/git.jpg"> <code> <b> ‎ Git‎  </b> </code>  | 
+  <img align="center" height ="37px" src="tools/aws.png"> <code> <b> ‎ AWS‎  </b> </code>  | 
+  <img align="center" height ="37px" src="tools/azure.png"> <code> <b> Azure ‎‎</b> </code> 
+  🦴 <br/> 🦴
+  <img align="center" height ="42px" src="tools/java.jpg"> <code> <b> ‎‎ Java </b> </code>  | 
+  <img align="center" height ="37px" src="tools/mongodb.svg"> <code> <b> MongoDB </b> </code>  | 
   <img align="center" height ="42px" src="tools/csharp.png"> <code> <b> C# </b> </code>  | 
   <img align="center" height ="42px" src="tools/javascript.webp"> <code> <b> JavaScript </b> </code> | 
-  <img align="center" height ="42px" src="tools/unity.png"> <code> <b> Unity </b> </code>
+  <img align="center" height ="38px" src="tools/unity.png"> <code> <b> Unity  ‎‎</b> </code>
+  🦴 <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
 </h5>
 
 
