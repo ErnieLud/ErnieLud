@@ -45,9 +45,15 @@
 
 <h5 align="center">
   <img align="center" height ="42px" src="tools/python.png"> <code> <b> Python </b> </code>  | 
-  <img align="center" height ="42px" src="socials/linkedin.svg"> <code> <b> Java </b> </code> | 
-  <img align="center" height='42px' src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"> <code> <b> Git </b> </code> | 
-  <img align="center" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> <code> <b> JavaScript </b> </code> |
+  <img align="center" height ="42px" src="tools/sql.png"> <code> <b> SQL </b> </code>  | 
+  <img align="center" height ="42px" src="tools/git.jpg"> <code> <b> Git </b> </code>  | 
+  <img align="center" height ="42px" src="tools/aws.png"> <code> <b> AWS </b> </code>  | 
+  <img align="center" height ="42px" src="tools/azure.png"> <code> <b> Azure </b> </code>  | 
+  <img align="center" height ="42px" src="tools/java.jpg"> <code> <b> Java </b> </code>  | 
+  <img align="center" height ="42px" src="tools/mongodb.svg"> <code> <b> MongoDB </b> </code>  | 
+  <img align="center" height ="42px" src="tools/csharp.png"> <code> <b> C# </b> </code>  | 
+  <img align="center" height ="42px" src="tools/javascript.webp"> <code> <b> JavaScript </b> </code> | 
+  <img align="center" height ="42px" src="tools/unity.png"> <code> <b> Unity </b> </code>
 </h5>
 
 
