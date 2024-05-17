@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://github.com/ErnieLud/ErnieLud/blob/main/city-night.gif" alt="Fan" align="center">
+<img src="https://github.com/ErnieLud/ErnieLud/blob/main/city-night.gif" alt="Fan" align="center" width="400" height="200">
 </div>
 
 <div align="center">
