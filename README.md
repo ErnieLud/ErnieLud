@@ -10,8 +10,9 @@
 
 <div align="center">
 to my personal GitHub profile!
-</div>
+  
 <img src="https://raw.githubusercontent.com/ErnieLud/ErnieLud/main/biker-hotline-miami.gif" alt="Writing" align="center" width="200" height="200">
+</div>
 
 
 <!--
