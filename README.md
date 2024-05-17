@@ -28,11 +28,11 @@
 <div align="center"> <br/>
 <b> My Socials (WOOOO!): </b> <br/>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ernie-sumoso" title="LinkedIn"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/profile/a20161018" title="HackerRank"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://leetcode.com/u/ErnieFlakes/" title="LeetCode"><img width="22" src="images/leetcode.png"> LeetCode</a></code>
-  <code><a href="https://www.instagram.com/ernieluds1403/" title="Instagram"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://www.credly.com/users/ernie.ai" title="Credly"><img width="22" src="images/credly.svg"> Credly </a></code>
+  <code><a href="https://www.linkedin.com/in/ernie-sumoso" title="LinkedIn"><img width="22" src="socials/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/profile/a20161018" title="HackerRank"><img width="22" src="socials/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://leetcode.com/u/ErnieFlakes/" title="LeetCode"><img width="22" src="socials/leetcode.png"> LeetCode</a></code>
+  <code><a href="https://www.instagram.com/ernieluds1403/" title="Instagram"><img width="22" src="socials/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.credly.com/users/ernie.ai" title="Credly"><img width="22" src="socials/credly.png"> Credly </a></code>
 </h5>
 </div>
 
