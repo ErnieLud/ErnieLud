@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://github.com/ErnieLud/ErnieLud/blob/main/hotline%20miami.gif" alt="Fan" align="center" width="500" height="600">
+<img src="https://github.com/ErnieLud/ErnieLud/blob/main/hotline%20miami.gif" alt="Fan" align="center" width="200" height="200">
 </div>
 
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center" width="500" height="600">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
 <div align="center">
 to my personal GitHub profile!
 </div>
-<img src="https://raw.githubusercontent.com/ErnieLud/ErnieLud/main/biker-hotline-miami.gif" alt="Writing" align="center">
+<img src="https://raw.githubusercontent.com/ErnieLud/ErnieLud/main/biker-hotline-miami.gif" alt="Writing" align="center"  width="200" height="200">
 
 
 <!--
