@@ -63,12 +63,11 @@
   <br/> <b> My recent projects and contributions: </b> <br/>
 </div>
 
-| Name | Description | Status |
-|---|---|---|
-| <a href="https://github.com/NILodio/JobsPyMacher"><img width="24" src="https://avatars.githubusercontent.com/u/80376392?s=24&u=c9d997650a8c16fb38d25d90d43449bd8e3cffd3&v=4" alt="SejuSpeaks" /> JobsPyMatcher </a> | Help students increase their chances of getting noticed by a recruiter by significantly improving their resumes for a targeted job description.| Done |
-| <a href="https://github.com/NILodio/dota2Analytics"><img width="24" src="https://avatars.githubusercontent.com/u/6033094?s=24&u=6ee36ad19855bb7a7b39c137f3a92417205d4c61&v=4" alt="joshuadanpeterson" /> Dota2Analytics </a> |Predict the winning team from e-sport Dota2 matches before they start. This classification problem has various independent features and large amounts of data to explore.| Done |
-| <a href="https://github.com/NILodio/toxic-audio-detection"><img width="24" src="https://avatars.githubusercontent.com/u/67121197?s=24&u=e509675e892f9a3c5369ef55afe05d0c46fe9c4b&v=4" alt="valrichter" /> Toxic Audio Detection </a> |Detect and identify sections of inappropriate usage of words and/or yelling within audio files.| Done |
-<!--
+| Logo | Project | Description | Status |
+|---|---|---|---|
+| <img align="center" height ="42px" src="projects/jobspymatcher.png"/> | <a href="https://github.com/NILodio/JobsPyMacher"> JobsPyMatcher </a>‎ ‎| An application that helps students increase their chances of getting noticed by recruiters by significantly improving their resumes for targeted job descriptions.| Done |
+| <img width="55" src="projects/dota2analytics.jpg" /> | <a href="https://github.com/NILodio/dota2Analytics"> Dota2Analytics </a> | An application that predicts the winning team in Dota 2 e-sports matches before they start. This classification problem involves various independent features and a large amount of data to analyze.| Done |
+| <img width="55" src="projects/toxic-audio-detection.jpg" /> | <a href="https://github.com/NILodio/toxic-audio-detection"> Toxic Audio Detection </a> | Web application to detect and identify sections of inappropriate usage of words and/or yelling within audio files.| Done |
 
 
 <div align="center"> <br/>
@@ -78,16 +77,4 @@
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
 </div>
-**ErnieSumoso/ErnieSumoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
