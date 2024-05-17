@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://github.com/ErnieLud/ErnieLud/blob/main/hotline%20miami.gif" alt="Fan" align="center">
+<img src="https://github.com/ErnieLud/ErnieLud/blob/main/hotline%20miami.gif" alt="Fan" align="center" width="500" height="600">
 </div>
 
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center" width="500" height="600">
 </div>
 
 <div align="center">
